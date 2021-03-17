@@ -23,7 +23,7 @@
 
 __all__ = ["DialogBox"]
 __version__ = 0.6
-__author__ = "Arnouts Timéo"
+__author__ = "Timéo Arnouts"
 
 import curses
 import curses.textpad
